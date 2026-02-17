@@ -1,3 +1,6 @@
 [submodule "Lab2"]
 	path = Lab2
 	url = git@github.com:LudvigD0/javakurs2-lab2.git
+[submodule "Lab3"]
+	path = Lab3
+	url = git@github.com:LudvigD0/javakurs2-lab3.git
